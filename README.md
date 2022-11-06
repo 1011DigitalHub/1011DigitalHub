@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm the "1011 Digital Hub" </h1>
-<h3 align="center">I´m the sandbox of a senior IT professional developing its Data Science skills</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1011digitalhub" alt="1011digitalhub" /></a> </p>
+<h1 align="center">Hi 👋, I'm the "1011 Digital Hub"</h1>
+<h3 align="center">The sandbox of senior IT professional developing his Data Science skills</h3>
 
 - 🔭 I’m currently working on **new skills ;-)**
 
