@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm the "1011 Digital Hub"</h1>
-<h3 align="center">The sandbox of senior IT professional developing his Data Science skills</h3>
+<h1 align="center">Hi 👋, I'm "1011 Digital Hub"</h1>
+<h3 align="center">A sandbox for a senior IT professional, developing his Data Science skills</h3>
 
 - 🔭 I’m currently working on **new skills ;-)**
 
